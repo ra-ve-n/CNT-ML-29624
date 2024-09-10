@@ -1,3 +1,16 @@
+***********************************************************************************************************************
+Please cite the following paper if you use the data stored in this repository:
+
+@article{malek2024predicting,
+  title={Predicting the mechanical properties of pristine and defective carbon nanotubes using a random forest model},
+  author={Malek, Ihtesham Ibn and Sarkar, Koushik and Zubair, Ahmed},
+  journal={Nanoscale Advances},
+  year={2024},
+  publisher={Royal Society of Chemistry}
+}
+DOI: 10.1039/D4NA00405A
+**********************************************************************************************************************
+
 ~dataset_combined: Dataset comprising parameters of pristine and defective CNT with single vacancy employed in training 
 machine learning model.
 
